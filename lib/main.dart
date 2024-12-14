@@ -102,9 +102,10 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              '🐱', // Emoji de gato
-              style: TextStyle(fontSize: 80),
+            const Icon(
+              Icons.pets,
+              size: 80,
+              color: Colors.pink,
             ),
             const SizedBox(height: 20),
             const Text(
