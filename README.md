@@ -1,16 +1,30 @@
-# myapp
+# Contador de Amor ❤️🐾
 
-A new Flutter project.
+Esse app é, basicamente, um **contador de cliques** com um tema fofinho de gato. Nada mais, nada menos. Ideal para testar cliques ou se divertir enquanto aumenta o número de "amores" que você dá.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 O que o app faz?  
 
-A few resources to get you started if this is your first Flutter project:
+- **Clique para contar**: Cada toque no botão principal aumenta o contador.  
+- **Menu com incrementos rápidos**: Adicione +1, +5 ou +10 de uma vez.  
+- **Resetar o contador**: Zere tudo e comece do zero quando quiser.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌐 Como acessar?  
+
+É só abrir o link:  
+👉 [`https://avristihler.github.io/contador-de-amor/`](https://avrilstihler.github.io/contador-de-amor/)  
+
+---
+
+## 💻 Detalhes técnicos  
+
+- **Criado com**: Flutter.  
+- **Exportado para Web**: A aplicação foi convertida para rodar no navegador e hospedada no GitHub Pages.  
+
+⚠️ **Nota importante**: Alguns ícones não carregaram corretamente após a exportação, mas isso não compromete a funcionalidade do app. Imagine os ícones e divirta-se! 😉  
+
+
+
