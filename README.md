@@ -1,18 +1,12 @@
-# Contador de Amor
+# Contador de Amor 🐈💞
 
 Esse app é, basicamente, um **contador de cliques** com um tema fofinho de gato.
-
----
 
 - **Clique para contar**: Cada toque no botão principal aumenta o contador.  
 - **Menu com incrementos rápidos**: Adicione +1, +5 ou +10 de uma vez.  
 - **Resetar o contador**: Zere tudo e comece do zero quando quiser.  
 
----
-Acesse pelo link:  
-[`https://avristihler.github.io/contador-de-amor/`](https://avrilstihler.github.io/contador-de-amor/)  
-
----
+Clique [`aqui`](https://avrilstihler.github.io/contador-de-amor/) para acessar a versão web do app.
 
 ## Detalhes técnicos  
 
