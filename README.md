@@ -1,4 +1,4 @@
-# Contador de Amor 🐈💞
+# Contador de Amor
 
 Esse app é, basicamente, um **contador de cliques** com um tema fofinho de gato.
 
